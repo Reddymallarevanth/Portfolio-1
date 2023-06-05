@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .intro-text {
+    flex: 1;
+    margin-right: 20px; /* Adjust the margin as needed */
+  }
+  
+  .image-container {
+    flex: 1;
+  }
+  
+  .image-container img {
+    width: 100%; /* Adjust the width as needed */
+    height: auto;
+  }
+  
